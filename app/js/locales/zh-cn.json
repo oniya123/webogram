@@ -306,13 +306,13 @@
 	"contact_edit_modal_first_name": "First name",
 	"contact_edit_modal_last_name": "Last name",
 	"contact_edit_modal_title": "Edit contact",
-	"contact_edit_modal_submit": "保存",
-	"contact_edit_modal_submit_active": "保存中...",
+	"contact_edit_modal_submit": "Save",
+	"contact_edit_modal_submit_active": "Saving...",
 
 	"contact_import_modal_title": "Add new contact",
 	"contact_import_modal_phone": "Phone number",
 	"contact_import_modal_phonebook": "Phonebook",
-	"contact_import_modal_submit": "保存",
+	"contact_import_modal_submit": "save",
 	"contact_import_modal_submit_active": "Importing...",
 
 	"conversation_you": "You",
