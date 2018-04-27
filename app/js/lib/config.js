@@ -13,13 +13,14 @@ Config = window.Config || {}
   ================
 
   Do not publish your Webogram fork with my app credentials (below), or your application may be blocked.
+  自行在https://my.telegram.org申请 api_id和hash，否则会报错
   You can get your own api_id, api_hash at https://my.telegram.org, see manual at https://core.telegram.org/api/obtaining_api_id.
 
 */
 
 Config.App = {
-  id: 2496,
-  hash: '8da85b0d5bfe62527e5b244c209159c3',
+  id: 自己的id,
+  hash: '自己的hash值',
   version: '0.7.0',
   domains: ['web.telegram.org', 'zhukov.github.io']
 }
