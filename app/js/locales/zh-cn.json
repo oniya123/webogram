@@ -271,7 +271,6 @@
 	"confirm_modal_bot_access_geo_inline": "这个bot想知道你每次发送请求时的位置。这可以用来提供特定位置的结果。",
 
 	"confirm_modal_are_u_sure": "你确定吗?",
-     /*/不汉化了*/
 	 
 	"confirm_modal_logout_submit": "Log out",
 	"confirm_modal_clear_history_submit": "Clear history",
